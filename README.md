@@ -328,7 +328,7 @@ The following screenshots show the different parts of the Bullet Barbershop land
 
 ## Desktop View
 
-(screenshots/01_desktop_view.png)
+![Desktop View](screenshots/01_desktop_view.png)
 
 ---
 

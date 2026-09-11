@@ -354,9 +354,7 @@ The following screenshots show the different parts of the Bullet Barbershop land
 
 ## Hero Section
 
-**Insert Hero Section screenshot here.**
-
-`![Hero Section](screenshots/hero-section.png)`
+![Hero Section](05_hero_section.png)
 
 ---
 
@@ -397,14 +395,6 @@ The following screenshots show the different parts of the Bullet Barbershop land
 **Insert Blade Components Folder screenshot here.**
 
 `![Blade Components Folder](screenshots/blade-components-folder.png)`
-
----
-
-## GitHub Repository
-
-**Insert GitHub Repository screenshot here.**
-
-`![GitHub Repository](screenshots/github-repository.png)`
 
 ---
 

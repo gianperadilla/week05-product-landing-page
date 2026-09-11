@@ -362,25 +362,19 @@ The following screenshots show the different parts of the Bullet Barbershop land
 
 ## Pricing Section
 
-**Insert Pricing Section screenshot here.**
-
-`![Pricing Section](screenshots/pricing-section.png)`
+![Pricing Section](07_pricing_section.png)
 
 ---
 
 ## Testimonials
 
-**Insert Testimonials screenshot here.**
-
-`![Testimonials](screenshots/testimonials.png)`
+![Testimonials](08_testimonials.png)
 
 ---
 
 ## Footer
 
-**Insert Footer screenshot here.**
-
-`![Footer](screenshots/footer.png)`
+![Footer](09_footer.png)
 
 ---
 

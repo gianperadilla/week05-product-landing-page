@@ -346,8 +346,7 @@ The following screenshots show the different parts of the Bullet Barbershop land
 
 ## Navigation Bar
 
-![Navigation Bar](Phone/Download/week05-product-landing-page_repository/week05-product-landing-page/screenshots/IMG_20260912_031611.png)
-
+![Navigation Bar](IMG_20260912_031611.png)
 ---
 
 ## Hero Section
@@ -358,8 +357,7 @@ The following screenshots show the different parts of the Bullet Barbershop land
 
 ## Features Section
 
-![Features Section](Phone/Download/week05-product-landing-page_repository/week05-product-landing-page/screenshots/IMG_20260912_032800.png)
-
+![Features Section](IMG_20260912_032800.png)
 ---
 
 ## Pricing Section

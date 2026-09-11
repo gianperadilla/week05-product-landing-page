@@ -334,17 +334,13 @@ The following screenshots show the different parts of the Bullet Barbershop land
 
 ## Tablet View
 
-**Insert Tablet View screenshot here.**
-
-`![Tablet View](screenshots/tablet-view.png)`
+![Tablet View](02_tablet_view.png)
 
 ---
 
 ## Mobile View
 
-**Insert Mobile View screenshot here.**
-
-`![Mobile View](screenshots/mobile-view.png)`
+![Mobile View](03_mobile_view.png)
 
 ---
 

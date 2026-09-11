@@ -215,9 +215,7 @@ This allows different service cards to use the same design while displaying diff
 
 ### Blade Components Folder Screenshot
 
-**Insert your Blade Components Folder screenshot here.**
-
-> `screenshots/blade-components-folder.png`
+![Blade Components Folder](11_blade_components_folder.png)
 
 ---
 
@@ -380,9 +378,7 @@ The following screenshots show the different parts of the Bullet Barbershop land
 
 ## Blade Components Folder
 
-**Insert Blade Components Folder screenshot here.**
-
-`![Blade Components Folder](screenshots/blade-components-folder.png)`
+![Blade Components Folder](11_blade_components_folder.png)
 
 ---
 
